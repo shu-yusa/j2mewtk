@@ -1,0 +1,8 @@
+MIDlet-1: BrowserOpen, BrowserOpen.png, BrowserOpen
+MIDlet-Jar-Size: 1706
+MIDlet-Jar-URL: BrowserOpen.jar
+MIDlet-Name: BrowserOpen
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

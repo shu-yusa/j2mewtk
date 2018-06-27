@@ -1,0 +1,2 @@
+#!/bin/sh
+java -noverify -jar ./emulator/player.jar ./bin/ZeldaBeta4.jad -d tmpclasses

@@ -1,0 +1,10 @@
+MIDlet-1: Dungeon, Dungeon.png, HideSeek
+MIDlet-Jar-Size: 117297
+MIDlet-Jar-URL: Dungeon.jar
+MIDlet-Name: Dungeon
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MPP-Height: 268
+MPP-Width: 240
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,11 @@
+MIDlet-1: DobonEZJ, DobonEZJ.png, Dobon
+MIDlet-Jar-Size: 124274
+MIDlet-Jar-URL: DobonEZJ.jar
+MIDlet-Name: DobonEZJ
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MPP-Height: 696
+MPP-Width: 480
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+OAP-Screen-Size: WVGA

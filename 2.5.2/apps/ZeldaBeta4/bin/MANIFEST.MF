@@ -1,0 +1,9 @@
+MIDlet-1: Zelda, /Images/Icon.png, Zelda
+MIDlet-Description: A remake of Zelda to NES..
+MIDlet-Icon: /Images/Icon.png
+MIDlet-Info-URL: zeldamobile.gorthwogh.net/News.php
+MIDlet-Name: Zelda
+MIDlet-Vendor: Gorthwogh
+MIDlet-Version: 4.12
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

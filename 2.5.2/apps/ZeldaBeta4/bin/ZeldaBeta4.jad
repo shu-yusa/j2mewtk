@@ -1,0 +1,16 @@
+MIDlet-1: Zelda, /Images/Icon.png, Zelda
+MIDlet-Description: A remake of Zelda to NES..
+MIDlet-Icon: /Images/Icon.png
+MIDlet-Info-URL: zeldamobile.gorthwogh.net/News.php
+MIDlet-Jar-Size: 883420
+MIDlet-Jar-URL: ZeldaBeta4.jar
+MIDlet-Name: Zelda
+MIDlet-Vendor: Gorthwogh
+MIDlet-Version: 4.12
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+OAP-Screen-Size: QVGA
+OAP-Icon-S: /Images/Icon.png
+OAP-Icon-M: /Images/Icon.png
+OAP-Icon-L: /Images/Zelda_mobile_logo2.png
+OAP-Backup: Y

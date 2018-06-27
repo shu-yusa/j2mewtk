@@ -1,0 +1,8 @@
+MIDlet-1: ResourceAccess, ResourceAccess.png, ResourceAccess
+MIDlet-Jar-Size: 100
+MIDlet-Jar-URL: ResourceAccess.jar
+MIDlet-Name: ResourceAccess
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

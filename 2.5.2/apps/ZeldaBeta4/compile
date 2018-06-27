@@ -1,0 +1,11 @@
+#!/bin/sh
+APP=ZeldaBeta4
+# compile src
+javac -classpath ./midplib/cldcapi11.jar:./midplib/midpapi21.jar -d tmpclasses/ src/*.java
+# preverify
+./midplib/preverify -nofinalize -nonative -classpath ./midplib/cldcapi11.jar:./midplib/midpapi21.jar -d ./classes ./tmpclasses
+
+# archive
+jar cfm bin/${APP}.jar  bin/MANIFEST.MF -C classes . -C res .
+filesize=`wc -c bin/${APP}.jar | sed "s/^ *//g" | cut -d ' ' -f1`
+sed -i '' -e "s/MIDlet-Jar-Size:.*/MIDlet-Jar-Size:\ ${filesize}/g" bin/${APP}.jad

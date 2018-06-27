@@ -1,0 +1,17 @@
+#IMAGE|file name|sx|sy|width|height|x|y
+#TREASURE|ID|x|y
+MOVE,0,/test.map,/event.txt,-1,27,0,0,28,12
+MOVE,0,/test.map,/event.txt,57,39,0,0,2,2
+MOVE,0,/test.map,/event.txt,57,38,0,0,2,2
+MOVE,1,/flowers.map,/flowers.txt,12,93,3,1,18,23
+MOVE,0,/test2.map,/map2.txt,12,77,1,0,15,0
+MOVE,1,/load.map,/load.txt,84,-1,4,0,14,49
+MOVE,1,/load.map,/load.txt,85,-1,4,0,15,49
+BARRIER,1,2,10,11,12,13,14,15,28,29,30,43,44,45,48,51,52,67,72,73,74,75,87,88,89,90,102,103,104,105,117,118,119,120,130,135,136,139,144,147,163,164,165,178,179,180,181,184,189,192,193,194,195
+IMAGE,/magic_circ.png,0,0,32,32,57,39
+IMAGE,/flower_blue.png,0,0,16,16,12,93
+IMAGE,/jar.png,0,0,16,16,33,50
+#IMAGE,3,0,0,32,32,57,39
+#IMAGE,0,0,0,16,16,12,93
+#IMAGE,2,0,0,16,16,33,50
+TREASURE,0,33,50
